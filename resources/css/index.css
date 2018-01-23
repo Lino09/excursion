@@ -1,0 +1,26 @@
+html{
+  background-color: black;
+  font-family: verdana;
+    text-align: center;
+}
+#top_page{
+
+  color: white;
+  font-size: 50px;
+}
+a{
+  color: aquamarine;
+  font-size: 16px;
+}
+h1{
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+p{
+  color: gray;
+  font-size: 21px;
+}
+.copyright {
+  text-align: right;
+}
